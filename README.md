@@ -14,3 +14,23 @@ Foggy San Francisco
 
 ## Why?
 Because the README is the face of a project. It should contain useful information.
+
+## Installation
+
+For now, you'll have to have Go installed.
+
+```
+go get github.com/mihasya/readmeme
+```
+
+## Usage
+
+```
+readmeme [-of <filename>]
+```
+
+## Details
+
+The top section of this README was generated using `readmeme`
+
+Props to Richard Crowley (again) for helping name this thing. It works so well - hopefully it starts a "meme" of useful READMEs.
